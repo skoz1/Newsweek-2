@@ -1,0 +1,16 @@
+    /*STRUCTURE/RESET*/
+    
+    html {
+        margin: 0;
+        padding: 0;
+        border: 0;
+        font-size: 100%;
+        font: inherit;
+    }
+    
+    img {
+        width: 100%;
+        height: auto;
+    }
+    
+    h1 {}
