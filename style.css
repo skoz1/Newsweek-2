@@ -14,3 +14,19 @@
     }
     
     h1 {}
+    /*CONTAINERS ROWS AND COLS*/
+    
+    .container {
+        background-color: blue;
+        height: 250px;
+    }
+    
+    .row {
+        border: 10px solid green;
+        height: 100px;
+    }
+    
+    .col {
+        border: 5px solid red;
+        height: 100px;
+    }
