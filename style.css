@@ -12,11 +12,9 @@
         width: 100%;
         height: auto;
     }
-    
-    h1 {}
     /*CONTAINERS ROWS AND COLS*/
     
-    .container {
+    .container .container-fluid {
         background-color: blue;
         height: 250px;
     }
@@ -29,4 +27,11 @@
     .col {
         border: 5px solid red;
         height: 100px;
+    }
+    /*NAVIGATION*/
+    
+    @media screen and (min-width: 991px) {
+        .hidden {
+            display: none;
+        }
     }
